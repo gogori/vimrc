@@ -1,4 +1,4 @@
-"set up vundle
+"set up the vundle
 set nocompatible
 filetype off
 set rtp+=~/.vim/bundle/vundle/
